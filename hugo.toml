@@ -1,0 +1,25 @@
+baseURL = 'https://docs.hyperspike.io/'
+languageCode = 'en-us'
+title = 'Hyperspike Documentation'
+theme = 'hugo-theme-techdoc'
+
+
+[params]
+	title = 'Hyperspike Documentation'
+	description = 'Hyperspike Documentation'
+	author = 'Hyperspike'
+	menu_style = "open-menu"
+
+	menu_exclusion = [
+		"archives",
+		"archive",
+	]
+
+#[menu]
+#	[[menu.main]]
+#		name = "Home"
+#		url = "/"
+#		weight = 1
+#		identifier = 'home'
+		# pre = "<i class='fa fa-heart'></i>&nbsp;"
+
