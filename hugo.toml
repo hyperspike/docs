@@ -8,7 +8,9 @@ theme = 'hugo-theme-techdoc'
 	title = 'Hyperspike Documentation'
 	description = 'Hyperspike Documentation'
 	author = 'Hyperspike'
-	menu_style = "open-menu"
+	menu_style = "slide-menu"
+
+	logo = "images/logo.png"
 
 	menu_exclusion = [
 		"archives",
@@ -22,4 +24,3 @@ theme = 'hugo-theme-techdoc'
 #		weight = 1
 #		identifier = 'home'
 		# pre = "<i class='fa fa-heart'></i>&nbsp;"
-
