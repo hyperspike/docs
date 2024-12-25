@@ -3,12 +3,14 @@ languageCode = 'en-us'
 title = 'Hyperspike Documentation'
 theme = 'hugo-theme-techdoc'
 
+google_analytics_id = "G-LXLNG1QM3T" # Your Google Analytics tracking id
+# tag_manager_container_id = ""
 
 [params]
 	title = 'Hyperspike Documentation'
 	description = 'Hyperspike Documentation'
 	author = 'Hyperspike'
-	menu_style = "slide-menu"
+	menu_style = "open-menu"
 
 	logo = "images/logo.png"
 
